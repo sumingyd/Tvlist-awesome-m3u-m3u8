@@ -1,3 +1,15 @@
+---
+home: true
+heroImage: /dortania-logo-clear.png
+heroText: Dortania's OpenCore Install Guide
+actionText: Getting Started→
+actionLink: prerequisites.md
+
+meta:
+- name: description
+  content: Current supported version 0.8.7
+---
+
 <p align="center"><img src="img/IPTV.jpg" alt="iptv" width="auto" height="150"><img src="img/M3U.jpg" alt="iptv" width="auto" height="150"></p>
 
 # 直播源相关资源汇总
